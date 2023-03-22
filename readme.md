@@ -22,6 +22,7 @@
 
 ## Training
 - [Cloud Resumé Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
+- [AWS Skills Builder](https://explore.skillbuilder.aws/learn/course/134/play/62437/aws-cloud-practitioner-essentials;lp=82)
 
 ## Useful
 - [JSON to YAML](https://www.json2yaml.com/)
